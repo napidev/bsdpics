@@ -1,2 +1,2 @@
 # bsdpics
-svg icons, etc.
+svg icons, etc. Free to use, no need to give credit. 
